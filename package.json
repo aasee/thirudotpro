@@ -1,0 +1,25 @@
+{
+  "name": "thirudotpro",
+  "version": "1.0.0",
+  "description": "site for thiru.pro",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server --cors --port 9090",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasee/thirudotpro.git"
+  },
+  "keywords": [
+    "thiru",
+    "thiru.pro",
+    "www.thiru.pro"
+  ],
+  "author": "thirumalai899@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aasee/thirudotpro/issues"
+  },
+  "homepage": "https://github.com/aasee/thirudotpro#readme"
+}
